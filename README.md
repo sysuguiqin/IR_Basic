@@ -1,2 +1,2 @@
-# DBA
-Data_Business_Analysis 
+# IR_basic
+information reterieve basic  algorithm
